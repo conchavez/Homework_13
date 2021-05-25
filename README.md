@@ -86,7 +86,7 @@ SSH into the control node and follow the steps below:
 - Run the playbook and navigate to /etc/ansible/roles to check that the installation worked as expected.
 
 Which file do you update to make Ansible run the playbook on a specific machine? How do I specify which machine to install the ELK server on versus which to install Filebeat on?
-- he hosts file. Changing the host in the playbook
+- The hosts file. Changing the host in the playbook
 
 Which URL do you navigate to in order to check that the ELK server is running?
 - http://52.167.134.196:5601/
